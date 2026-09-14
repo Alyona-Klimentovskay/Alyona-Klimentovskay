@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Alyona-Klimentovskay/Alyona-Klimentovskay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Automation QA Engineer 
 
-Here are some ideas to get you started:
+🔧 My Tech Stack: JavaScript/Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛓️ CI/CD & Tools: GitHub Actions, Git
+
+🎯 Focus: UI Automation, E2E Testing
+
+- 🔭 I’m currently working on my Plawright-Project
+- 🌱 I’m currently learning Automation
+- 👯 I’m looking to collaborate on Automation Projects
+
+
